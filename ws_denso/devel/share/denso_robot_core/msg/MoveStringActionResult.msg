@@ -1,0 +1,1 @@
+/workspace/ws_denso/devel/.private/denso_robot_core/share/denso_robot_core/msg/MoveStringActionResult.msg

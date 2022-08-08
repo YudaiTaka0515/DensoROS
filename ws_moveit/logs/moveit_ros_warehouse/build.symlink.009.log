@@ -1,0 +1,11 @@
+Symlinking /workspace/ws_moveit/devel/lib/libmoveit_warehouse.so
+Symlinking /workspace/ws_moveit/devel/lib/libmoveit_warehouse.so.1.1.9
+Symlinking /workspace/ws_moveit/devel/lib/moveit_ros_warehouse/moveit_init_demo_warehouse
+Symlinking /workspace/ws_moveit/devel/lib/moveit_ros_warehouse/moveit_save_to_warehouse
+Symlinking /workspace/ws_moveit/devel/lib/moveit_ros_warehouse/moveit_warehouse_broadcast
+Symlinking /workspace/ws_moveit/devel/lib/moveit_ros_warehouse/moveit_warehouse_import_from_text
+Symlinking /workspace/ws_moveit/devel/lib/moveit_ros_warehouse/moveit_warehouse_save_as_text
+Symlinking /workspace/ws_moveit/devel/lib/moveit_ros_warehouse/moveit_warehouse_services
+Symlinking /workspace/ws_moveit/devel/lib/pkgconfig/moveit_ros_warehouse.pc
+Symlinking /workspace/ws_moveit/devel/share/moveit_ros_warehouse/cmake/moveit_ros_warehouseConfig-version.cmake
+Symlinking /workspace/ws_moveit/devel/share/moveit_ros_warehouse/cmake/moveit_ros_warehouseConfig.cmake

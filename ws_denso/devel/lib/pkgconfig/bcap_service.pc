@@ -1,0 +1,1 @@
+/workspace/ws_denso/devel/.private/bcap_service/lib/pkgconfig/bcap_service.pc

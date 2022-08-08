@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /workspace/ws_denso/devel/.private/bcap_service_test/setup.sh

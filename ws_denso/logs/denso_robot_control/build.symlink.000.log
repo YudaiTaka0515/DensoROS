@@ -1,0 +1,4 @@
+Symlinking /workspace/ws_denso/devel/lib/denso_robot_control/denso_robot_control
+Symlinking /workspace/ws_denso/devel/lib/pkgconfig/denso_robot_control.pc
+Symlinking /workspace/ws_denso/devel/share/denso_robot_control/cmake/denso_robot_controlConfig-version.cmake
+Symlinking /workspace/ws_denso/devel/share/denso_robot_control/cmake/denso_robot_controlConfig.cmake

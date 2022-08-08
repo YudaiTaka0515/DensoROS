@@ -1,0 +1,13 @@
+[01m[Kc++:[m[K [01;31m[Kinternal compiler error: [m[KKilled (program cc1plus)
+Please submit a full bug report,
+with preprocessed source if appropriate.
+See <file:///usr/share/doc/gcc-7/README.Bugs> for instructions.
+make[2]: *** [CMakeFiles/moveit_move_group_default_capabilities.dir/src/default_capabilities/apply_planning_scene_service_capability.cpp.o] Error 4
+make[2]: *** Waiting for unfinished jobs....
+[01m[Kc++:[m[K [01;31m[Kinternal compiler error: [m[KKilled (program cc1plus)
+Please submit a full bug report,
+with preprocessed source if appropriate.
+See <file:///usr/share/doc/gcc-7/README.Bugs> for instructions.
+make[2]: *** [CMakeFiles/moveit_move_group_default_capabilities.dir/src/default_capabilities/plan_service_capability.cpp.o] Error 4
+make[1]: *** [CMakeFiles/moveit_move_group_default_capabilities.dir/all] Error 2
+make: *** [all] Error 2

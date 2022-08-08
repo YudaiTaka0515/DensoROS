@@ -1,0 +1,3 @@
+Symlinking /workspace/ws_denso/devel/lib/pkgconfig/denso_robot_bringup.pc
+Symlinking /workspace/ws_denso/devel/share/denso_robot_bringup/cmake/denso_robot_bringupConfig-version.cmake
+Symlinking /workspace/ws_denso/devel/share/denso_robot_bringup/cmake/denso_robot_bringupConfig.cmake

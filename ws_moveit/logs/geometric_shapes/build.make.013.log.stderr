@@ -1,0 +1,14 @@
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libfcl.so', needed by '/workspace/ws_moveit/devel/.private/geometric_shapes/lib/libgeometric_shapes.so.0.7.3'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+[01m[K/workspace/ws_moveit/src/geometric_shapes/src/obb.cpp:3:10:[m[K [01;31m[Kfatal error: [m[Kfcl/config.h: No such file or directory
+ #include [01;31m[K<fcl/config.h>[m[K
+          [01;31m[K^~~~~~~~~~~~~~[m[K
+[01m[K/workspace/ws_moveit/src/geometric_shapes/src/aabb.cpp:39:10:[m[K [01;31m[Kfatal error: [m[Kfcl/config.h: No such file or directory
+ #include [01;31m[K<fcl/config.h>[m[K
+          [01;31m[K^~~~~~~~~~~~~~[m[K
+compilation terminated.
+compilation terminated.
+make[2]: *** [CMakeFiles/geometric_shapes.dir/src/aabb.cpp.o] Error 1
+make[2]: *** [CMakeFiles/geometric_shapes.dir/src/obb.cpp.o] Error 1
+make[1]: *** [CMakeFiles/geometric_shapes.dir/all] Error 2
+make: *** [all] Error 2

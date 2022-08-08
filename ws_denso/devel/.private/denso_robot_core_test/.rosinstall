@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /workspace/ws_denso/devel/.private/denso_robot_core_test/setup.sh

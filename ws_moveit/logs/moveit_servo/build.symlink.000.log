@@ -1,0 +1,10 @@
+Symlinking /workspace/ws_moveit/devel/lib/libmoveit_servo_cpp_api.so
+Symlinking /workspace/ws_moveit/devel/lib/libmoveit_servo_cpp_api.so.1.1.9
+Symlinking /workspace/ws_moveit/devel/lib/libpose_tracking.so
+Symlinking /workspace/ws_moveit/devel/lib/moveit_servo/cpp_interface_example
+Symlinking /workspace/ws_moveit/devel/lib/moveit_servo/pose_tracking_example
+Symlinking /workspace/ws_moveit/devel/lib/moveit_servo/servo_server
+Symlinking /workspace/ws_moveit/devel/lib/moveit_servo/spacenav_to_twist
+Symlinking /workspace/ws_moveit/devel/lib/pkgconfig/moveit_servo.pc
+Symlinking /workspace/ws_moveit/devel/share/moveit_servo/cmake/moveit_servoConfig-version.cmake
+Symlinking /workspace/ws_moveit/devel/share/moveit_servo/cmake/moveit_servoConfig.cmake

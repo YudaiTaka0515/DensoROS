@@ -1,0 +1,3 @@
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libfcl.so', needed by '/workspace/ws_moveit/devel/.private/geometric_shapes/lib/libgeometric_shapes.so.0.7.3'.  Stop.
+make[1]: *** [CMakeFiles/geometric_shapes.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,1 @@
+/workspace/ws_denso/devel/.private/bcap_service/share/roseus/ros/bcap_service/manifest.l

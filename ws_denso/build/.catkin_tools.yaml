@@ -1,0 +1,6 @@
+devel_space: /workspace/ws_denso/devel
+install: false
+install_space: /workspace/ws_denso/install
+profile: default
+source_space: /workspace/ws_denso/src
+workspace: /workspace/ws_denso

@@ -1,0 +1,1 @@
+/workspace/ws_denso/devel/.private/denso_robot_core_test/lib/pkgconfig/denso_robot_core_test.pc

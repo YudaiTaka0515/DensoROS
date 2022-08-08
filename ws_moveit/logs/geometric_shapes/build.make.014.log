@@ -1,0 +1,27 @@
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libfcl.so', needed by '/workspace/ws_moveit/devel/.private/geometric_shapes/lib/libgeometric_shapes.so.0.7.3'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+[ 10%] [32mBuilding CXX object CMakeFiles/geometric_shapes.dir/src/aabb.cpp.o[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/geometric_shapes.dir/src/bodies.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/geometric_shapes.dir/src/shape_extents.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/geometric_shapes.dir/src/shape_operations.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/geometric_shapes.dir/src/mesh_operations.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/geometric_shapes.dir/src/shape_to_marker.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/geometric_shapes.dir/src/obb.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/geometric_shapes.dir/src/body_operations.cpp.o[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/geometric_shapes.dir/src/shapes.cpp.o[0m
+[01m[K/workspace/ws_moveit/src/geometric_shapes/src/aabb.cpp:39:10:[m[K [01;31m[Kfatal error: [m[Kfcl/config.h: No such file or directory
+ #include [01;31m[K<fcl/config.h>[m[K
+          [01;31m[K^~~~~~~~~~~~~~[m[K
+compilation terminated.
+[01m[K/workspace/ws_moveit/src/geometric_shapes/src/obb.cpp:3:10:[m[K [01;31m[Kfatal error: [m[Kfcl/config.h: No such file or directory
+ #include [01;31m[K<fcl/config.h>[m[K
+          [01;31m[K^~~~~~~~~~~~~~[m[K
+compilation terminated.
+CMakeFiles/geometric_shapes.dir/build.make:62: recipe for target 'CMakeFiles/geometric_shapes.dir/src/aabb.cpp.o' failed
+make[2]: *** [CMakeFiles/geometric_shapes.dir/src/aabb.cpp.o] Error 1
+CMakeFiles/geometric_shapes.dir/build.make:158: recipe for target 'CMakeFiles/geometric_shapes.dir/src/obb.cpp.o' failed
+make[2]: *** [CMakeFiles/geometric_shapes.dir/src/obb.cpp.o] Error 1
+CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/geometric_shapes.dir/all' failed
+make[1]: *** [CMakeFiles/geometric_shapes.dir/all] Error 2
+Makefile:140: recipe for target 'all' failed
+make: *** [all] Error 2

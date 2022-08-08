@@ -1,0 +1,1 @@
+/workspace/ws_moveit/devel/.private/moveit_core/lib/python2.7/dist-packages/moveit/__init__.py

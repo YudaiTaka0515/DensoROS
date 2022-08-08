@@ -1,0 +1,7 @@
+Symlinking /workspace/ws_moveit/devel/lib/libmoveit_ros_benchmarks.so
+Symlinking /workspace/ws_moveit/devel/lib/libmoveit_ros_benchmarks.so.1.1.9
+Symlinking /workspace/ws_moveit/devel/lib/moveit_ros_benchmarks/moveit_combine_predefined_poses_benchmark
+Symlinking /workspace/ws_moveit/devel/lib/moveit_ros_benchmarks/moveit_run_benchmark
+Symlinking /workspace/ws_moveit/devel/lib/pkgconfig/moveit_ros_benchmarks.pc
+Symlinking /workspace/ws_moveit/devel/share/moveit_ros_benchmarks/cmake/moveit_ros_benchmarksConfig-version.cmake
+Symlinking /workspace/ws_moveit/devel/share/moveit_ros_benchmarks/cmake/moveit_ros_benchmarksConfig.cmake

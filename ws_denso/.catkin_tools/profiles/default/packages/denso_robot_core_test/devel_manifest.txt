@@ -1,0 +1,6 @@
+denso_robot_ros/denso_robot_core_test
+/workspace/ws_denso/devel/.private/denso_robot_core_test/cmake.lock /workspace/ws_denso/devel/./cmake.lock
+/workspace/ws_denso/devel/.private/denso_robot_core_test/lib/denso_robot_core_test/denso_robot_core_test /workspace/ws_denso/devel/lib/denso_robot_core_test/denso_robot_core_test
+/workspace/ws_denso/devel/.private/denso_robot_core_test/lib/pkgconfig/denso_robot_core_test.pc /workspace/ws_denso/devel/lib/pkgconfig/denso_robot_core_test.pc
+/workspace/ws_denso/devel/.private/denso_robot_core_test/share/denso_robot_core_test/cmake/denso_robot_core_testConfig-version.cmake /workspace/ws_denso/devel/share/denso_robot_core_test/cmake/denso_robot_core_testConfig-version.cmake
+/workspace/ws_denso/devel/.private/denso_robot_core_test/share/denso_robot_core_test/cmake/denso_robot_core_testConfig.cmake /workspace/ws_denso/devel/share/denso_robot_core_test/cmake/denso_robot_core_testConfig.cmake

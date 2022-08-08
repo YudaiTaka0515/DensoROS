@@ -1,0 +1,9 @@
+Symlinking /workspace/ws_moveit/devel/lib/libmoveit_setup_assistant_tools.so
+Symlinking /workspace/ws_moveit/devel/lib/libmoveit_setup_assistant_tools.so.1.1.9
+Symlinking /workspace/ws_moveit/devel/lib/libmoveit_setup_assistant_widgets.so
+Symlinking /workspace/ws_moveit/devel/lib/libmoveit_setup_assistant_widgets.so.1.1.9
+Symlinking /workspace/ws_moveit/devel/lib/moveit_setup_assistant/collisions_updater
+Symlinking /workspace/ws_moveit/devel/lib/moveit_setup_assistant/moveit_setup_assistant
+Symlinking /workspace/ws_moveit/devel/lib/pkgconfig/moveit_setup_assistant.pc
+Symlinking /workspace/ws_moveit/devel/share/moveit_setup_assistant/cmake/moveit_setup_assistantConfig-version.cmake
+Symlinking /workspace/ws_moveit/devel/share/moveit_setup_assistant/cmake/moveit_setup_assistantConfig.cmake

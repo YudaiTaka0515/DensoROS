@@ -1,0 +1,4 @@
+Symlinking /workspace/ws_denso/devel/lib/bcap_service_test/bcap_service_test
+Symlinking /workspace/ws_denso/devel/lib/pkgconfig/bcap_service_test.pc
+Symlinking /workspace/ws_denso/devel/share/bcap_service_test/cmake/bcap_service_testConfig-version.cmake
+Symlinking /workspace/ws_denso/devel/share/bcap_service_test/cmake/bcap_service_testConfig.cmake

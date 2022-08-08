@@ -1,0 +1,4 @@
+[  9%] Built target rac_string
+[ 56%] Built target bcap_server
+[ 78%] Built target tpcomm
+[100%] Built target bcap_client

@@ -1,0 +1,7 @@
+Symlinking /workspace/ws_denso/devel/lib/libbcap_client.so
+Symlinking /workspace/ws_denso/devel/lib/libbcap_server.so
+Symlinking /workspace/ws_denso/devel/lib/librac_string.so
+Symlinking /workspace/ws_denso/devel/lib/libtpcomm.so
+Symlinking /workspace/ws_denso/devel/lib/pkgconfig/bcap_core.pc
+Symlinking /workspace/ws_denso/devel/share/bcap_core/cmake/bcap_coreConfig-version.cmake
+Symlinking /workspace/ws_denso/devel/share/bcap_core/cmake/bcap_coreConfig.cmake
